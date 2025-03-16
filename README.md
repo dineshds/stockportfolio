@@ -16,23 +16,23 @@ It shows the following
 -Graph of portfolio value over an adjustable timeframe, 1d, 1w, 1m, 6m, 1y, 3y, 5y, max
 -List of all stocks with portfolio value
 
-3. Stock Page
+2. Stock Page
 It shows the following
 -Current Portfolio
 -Graph of stock price over an adjustable timeframe
 -Net Profit/Loss
 
-4. Register / Login Page
+3. Register / Login Page
 
 
-5. User Profile Page
+4. User Profile Page
 It has the following
 Name
 Email
 Change Password
 
 
-6. Stock Details Entry Page
+5. Stock Details Entry Page
 It allows users to enter the following in table which is easy to input multiple values
 -Stock Symbol
 -Purchase Date

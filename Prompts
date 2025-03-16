@@ -1,1 +1,43 @@
 I want to develop a stock portfolio tracker.
+
+Details are in the README.md file.
+
+Suggest a tech stack for this project.
+Yes, Streamlit would be an excellent choice for this project! Here's a simplified tech stack using Streamlit:
+
+Frontend & Backend (Combined):
+- Streamlit - For the entire web interface and backend logic
+  - Handles both UI and data processing
+  - Built-in support for data visualization
+  - Easy deployment
+  - Perfect for data-heavy applications
+
+Data Visualization:
+- Plotly - For interactive financial charts
+- Streamlit's native plotting capabilities
+
+Database:
+- SQLite - For local development
+- PostgreSQL - For production deployment
+
+APIs:
+- yfinance (Yahoo Finance) - For stock data
+- Alpha Vantage (as backup) - For additional market data
+
+Deployment:
+- Streamlit Cloud - For easy hosting
+- Docker (optional) - If you need custom deployment
+
+Additional Libraries:
+- pandas - For data manipulation
+- numpy - For numerical computations
+
+This stack is much simpler than a traditional web stack and perfect for:
+- Rapid development
+- Data-focused applications
+- Quick prototyping
+- Single developer projects
+- Easy maintenance
+
+The main advantage of using Streamlit is that you can build the entire application in Python without needing to know JavaScript or web development frameworks.
+
