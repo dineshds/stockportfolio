@@ -4,23 +4,40 @@ Purpose
 -------
 The purpose of this application is to track the performance of a person's stock portfolio.
 
-How does it work:
 
-Input:
-It allows a person to enter their stock portfolio
+
+It has the following pages
+
+
+1. Main Dashboard:
+It shows the following
+-Current Portfolio Value
+-Net Profit/Loss
+-Graph of portfolio value over an adjustable timeframe, 1d, 1w, 1m, 6m, 1y, 3y, 5y, max
+-List of all stocks with portfolio value
+
+3. Stock Page
+It shows the following
+-Current Portfolio
+-Graph of stock price over an adjustable timeframe
+-Net Profit/Loss
+
+4. Register / Login Page
+
+
+5. User Profile Page
+It has the following
+Name
+Email
+Change Password
+
+
+6. Stock Details Entry Page
+It allows users to enter the following in table which is easy to input multiple values
 -Stock Symbol
 -Purchase Date
 -Quantity 
 -Total Purchase price (if quanity is not known)
-
-
-Dashboard:
-It shows the following
--Current Portfolio Value
--Graph of portfolio value over an adjustable timeframe, 1d, 1w, 1m, 6m, 1y, 3y, 5y, max
--Graph of induvidual stock
-
-Which API to use to get stock data
 
 
 
